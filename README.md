@@ -1,3 +1,3 @@
-# Data Science Toolkit Git and GitHub Assignment
+# Data Science Toolkit git and GitHub Assignment
 
-Practice git and GitHub
+This is a practice repository for collaborating with git and GitHub
